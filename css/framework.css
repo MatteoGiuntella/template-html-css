@@ -48,3 +48,40 @@
 .col-12{
     width: 100%;
 }
+/* col-margin */
+.col-space-1{
+    margin-left: calc((100% / 12) * 1);
+}
+.col-space-2{
+    margin-left: calc((100% / 12) * 2);
+}
+.col-space-3{
+    margin-left: calc((100% / 12) * 3);
+}
+.col-space-4{
+    margin-left: calc((100% / 12) * 4);
+}
+.col-space-5{
+    margin-left: calc((100% / 12) * 5);
+}
+.col-space-6{
+    margin-left: calc((100% / 12) * 6);
+}
+.col-space-7{
+    margin-left: calc((100% / 12) * 7);
+}
+.col-space-8{
+    margin-left: calc((100% / 12) * 8);
+}
+.col-space-9{
+    margin-left: calc((100% / 12) * 9);
+}
+.col-space-10{
+    margin-left: calc((100% / 12) * 10);
+}
+.col-space-11{
+    margin-left: calc((100% / 12) * 11);
+}
+.col-space-12{
+    margin-left: calc((100% / 12) * 12);
+}
