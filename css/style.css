@@ -5,7 +5,13 @@
     box-sizing: border-box;
 }
 /* general */
-.container{
-    width: 1200px;
-    margin: auto;
+img{
+    width: 100%;
+    display: block;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
 }
