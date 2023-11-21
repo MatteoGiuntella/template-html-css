@@ -11,7 +11,9 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+
 /* col */
+
 .col-1{
     width: calc((100% / 12) * 1);
 }
