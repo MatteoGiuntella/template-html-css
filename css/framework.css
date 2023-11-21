@@ -4,12 +4,26 @@
     max-width: 1170px;
     margin: auto;
 }
+
 /* row */
 
 .row{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+/* reset-col */
+
+[class*="col-"] {
+    flex: 0 0 auto;
+}
+
+/* col flessibile */
+
+.col{
+    flex-grow: 1;
+    flex-basis: 0;
+    max-width: 100%;
 }
 
 /* col */
