@@ -8,5 +8,10 @@ const { createApp } = Vue
     },
     methods: {
 
+        },
+    mounted () {
+          axios
+            .get('')
+            .then()
         }
   }).mount('#app')
